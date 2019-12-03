@@ -1,4 +1,4 @@
-LRU-cache was realized on Python 3.8 with two different approaches:
+LRU-cache was realized on Python 3.8 (as a last stabile Python version) with two different approaches:
 1. By using `OrderedDict` from standard library `collections` is in folder _OrderedDict_. 
 This solution is shorter and simpler for reading and maintaining.
 2. By using standard Python dictionary is in folder _Dict_.
